@@ -1,16 +1,6 @@
 {
     "blogs": [
         {
-            "id": "4b66e146-6da5-46e4-8a0e-2b40c0f13b0a",
-            "image_url": "https://cdn.subspace.money/whatsub_blogs/slate(1).png",
-            "title": "Privacy policy"
-        },
-        {
-            "id": "8f2ffbf6-4058-47cd-800b-8c65f25fdf3c",
-            "image_url": "https://cdn.subspace.money/whatsub_blogs/q.png",
-            "title": "Top 5 ways to save money on Subscriptions"
-        },
-        {
             "id": "9fccb1c3-5a92-4e2a-94d0-5c95d8434e55",
             "image_url": "https://cdn.subspace.money/whatsub_blogs/lee-paz-aJJoTV1r87w-unsplash.jpg",
             "title": "Sony is updating its PlayStation Plus gaming subscription, which will be available soon."
